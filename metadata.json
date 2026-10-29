@@ -1,0 +1,6 @@
+{
+  "name": "Metabit Sistemas - Remanejamento do Plano de Aplicação",
+  "description": "Protótipo interativo de UX/UI para remanejamento orçamentário de Plano de Aplicação no Terceiro Setor (MROSC), com 3 modos de operação e validação de equilíbrio financeiro.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
